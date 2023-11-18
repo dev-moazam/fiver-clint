@@ -249,7 +249,8 @@ float: end;
     display: none !important;
 }
 .hd-menu-bar{
-     padding-top:12px !important;  
+     padding-top:12px !important;
+}
 .banner-text {
 margin: auto;
 display: flex;
