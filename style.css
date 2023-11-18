@@ -40,7 +40,7 @@ overflow: unset !important;
 }
 
 
-.card-titlE h3 {
+.card-title h3 {
 /* font-size: 20px; */
 /* color: #FFFFFF; */
 color: #DDE4ED;
@@ -258,7 +258,7 @@ display: flex;
 .banner-text pre{
 font-size: 17px;
 }
-.card-titlE h3 {
+.card-title h3 {
 font-size: 27px;
 text-align: center;
 }
