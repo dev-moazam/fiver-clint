@@ -205,10 +205,6 @@ text-transform: uppercase;
 letter-spacing: 2.21px;
 word-wrap: break-word
 }
-.gutter-space .row {
-/* --bs-gutter-x: unset !important; */
---bs-gutter-x: 8px !important;
-}
 .btn-check-features a{
     text-decoration: none;
     font-size: 17px;
@@ -252,6 +248,8 @@ float: end;
 .header-side-image img{
     display: none !important;
 }
+.hd-menu-bar{
+     padding-top:12px !important;  
 .banner-text {
 margin: auto;
 display: flex;
