@@ -1,7 +1,10 @@
 body{
     font-family: Montserrat !important;
 }
-
+.navbar-dark .navbar-toggler {
+    color: unset !important;
+    border-color: unset !important;
+}
 .bg-main{
     background-image: url(img/background.jpg);
     background-repeat: no-repeat;
