@@ -5,6 +5,13 @@ body{
     color: unset !important;
     border-color: unset !important;
 }
+.navbar-toggler {
+    font-size: 18px !important;
+    line-height: 2 !important;
+    border: unset !important;
+    border-radius: unset !important;
+    transition: unset !important;
+}
 .bg-main{
     background-image: url(img/background.jpg);
     background-repeat: no-repeat;
